@@ -163,6 +163,8 @@ You can check the [nginx conf of the
 example](https://github.com/tigerlily/redisse/blob/master/example/nginx.conf)
 for all the details.
 
+thanks guys
+
 ## Contributing
 
 1. Fork it
